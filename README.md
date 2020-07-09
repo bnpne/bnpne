@@ -4,4 +4,4 @@ I am a Full-Stack Web Developer living in Southern California. I specialize in [
 
 📚 [Read my blog](https://bnpne.io/) where I write about my learning process and thoughts.  
 🐦 [Follow me on Twitter](https://twitter.com/home) for daily updates.  
-💌 [Email me](bentppaine@gmail.com) to reach me directly.
+💌 Email me at <bentppaine@gmail.com> to reach me directly.
