@@ -1,6 +1,6 @@
 #### Hey, I'm Ben.
 
-I am a Full-Stack Web Developer living in Southern California. I specialize in [Next.js](https://github.com/vercel/next.js/), [GraphQL](https://graphql.org/), and [TypeScript](https://www.typescriptlang.org/). 
+I am a Developer and Designer. I specialize in React (Next.js), Typescript, Serverless, Web Design and JAMstack.
 
 📚 [Read my blog](https://bnpne.io/) where I write about my learning process and thoughts.  
 🐦 [Follow me on Twitter](https://twitter.com/home) for daily updates.  
