@@ -1,1 +1,5 @@
-![Metrics](https://metrics.lecoq.io/bnpne?template=classic&languages=1&pagespeed=1&languages.ignored=html%2C%20css&languages.limit=8&languages.colors=github&languages.threshold=0%25&pagespeed.url=bnpne.io&pagespeed.detailed=false&pagespeed.screenshot=false&config.timezone=America%2FLos_Angeles)
+## BEN PAINE — CREATIVE DEVELOPER & DESIGNER
+1. [Instagram](https://www.instagram.com/bnpne/)
+2. [Twitter](https://twitter.com/bn_pne)
+---
+[AVAILABLE FOR CLIENT WORK](mailto:bentppaine@gmail.com)
